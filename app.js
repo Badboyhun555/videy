@@ -3,7 +3,7 @@
 const CONFIG = {
   MONETAG_ZONE_ID: '',   // SETUP PLACEHOLDER: main zone ID (digits) from the Monetag dashboard. Empty = ads "unavailable".
   AD_MODE: 'smartlink',  // 'smartlink' = optional sponsor link (no reward verification) | 'sdk' = Monetag rewarded SDK
-  SMARTLINK_URL: '',     // SETUP PLACEHOLDER: your Monetag Direct Link / SmartLink (HTTPS) from the dashboard
+  SMARTLINK_URL: 'https://uplcm.com/4/12028205',     // SETUP PLACEHOLDER: your Monetag Direct Link / SmartLink (HTTPS) from the dashboard
   MOCK_MODE: false,      // DEV ONLY. Never unlocks a video. Keep false in production.
   TIMEZONE: 'Asia/Kolkata', // release dates (YYYY-MM-DD) switch on at 00:00 in this timezone
   ALLOWED_MEGA_HOSTS: ['mega.nz', 'mega.io'],
