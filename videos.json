@@ -1,0 +1,32 @@
+[
+  {
+    "id": "video-001",
+    "title": "Example Video One",
+    "description": "A sample description. Replace with your own.",
+    "thumbnail": "https://YOUR-IMAGE-HOST/example-1.webp",
+    "megaUrl": "https://mega.nz/file/AAAAAAAA#PLACEHOLDER_KEY_1",
+    "category": "General",
+    "duration": "05:30",
+    "tags": ["trending", "latest"],
+    "published": true
+  },
+  {
+    "id": "video-002",
+    "title": "Example Video Two",
+    "description": "Another placeholder entry. Links and images here are NOT real.",
+    "thumbnail": "https://YOUR-IMAGE-HOST/example-2.webp",
+    "megaUrl": "https://mega.nz/file/BBBBBBBB#PLACEHOLDER_KEY_2",
+    "category": "Tutorials",
+    "duration": "12:04",
+    "published": true
+  },
+  {
+    "id": "video-003",
+    "title": "Hidden Example (not shown)",
+    "description": "published=false hides an entry.",
+    "thumbnail": "https://YOUR-IMAGE-HOST/example-3.webp",
+    "megaUrl": "https://mega.nz/file/CCCCCCCC#PLACEHOLDER_KEY_3",
+    "category": "General",
+    "published": false
+  }
+]
